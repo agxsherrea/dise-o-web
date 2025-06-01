@@ -1,0 +1,36 @@
+
+.titulo{
+      background-color: rgb(255, 0, 21);
+      color: black;
+      padding: 30px;
+        }
+.titulo2{
+    background-color: aqua;
+    color: black;
+    padding: 30px;
+}
+.titulo3{
+    background-color: aqua;
+    color: black;
+    padding: 30px;
+}
+.titulo4{
+    background-color: aqua;
+    color: black;
+    padding: 30px;
+}
+h1{
+font-family: "Raleway", sans-serif;
+}
+h2{
+font-family: "Raleway", sans-serif;
+}
+h3{
+    font-family: "Raleway", sans-serif;
+}
+h4{
+    font-family: "Raleway", sans-serif;
+}
+a:hover{
+    color: rgb(172, 10, 99);
+}
